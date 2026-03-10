@@ -208,7 +208,7 @@ git clone https://github.com/pavankumar1498/flutter-firebase-todo-app.git
 ## 2. Navigate to project
 
 ```
-cd todo-firebase-app
+cd flutter-firebase-todo-app-main
 ```
 
 ---
@@ -247,3 +247,4 @@ flutter run
 # Author
 
 Developed using **Flutter and Firebase** following clean architecture principles.
+
